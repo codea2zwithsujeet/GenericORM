@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EFCore.Generic.Repository</id>
+    <version>1.0.6</version>
+    <authors>EFCore.Generic.Repository</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Dapper" version="2.0.123" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="3.1.32" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="3.1.32" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="3.1.32" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\CodeA2ZwithSujeet\ORM_Common_Utility\ORM.Common.Utility\EFCore.Generic.Repository\bin\Debug\netcoreapp3.1\EFCore.Generic.Repository.dll" target="lib\netcoreapp3.1\EFCore.Generic.Repository.dll" />
+  </files>
+</package>

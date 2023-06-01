@@ -1,0 +1,10 @@
+C:\CodeA2ZwithSujeet\ORM_Common_Utility\ORM.Common.Utility\EFCore.Generic.Repository\bin\Debug\netcoreapp3.1\EFCore.Generic.Repository.deps.json
+C:\CodeA2ZwithSujeet\ORM_Common_Utility\ORM.Common.Utility\EFCore.Generic.Repository\bin\Debug\netcoreapp3.1\EFCore.Generic.Repository.dll
+C:\CodeA2ZwithSujeet\ORM_Common_Utility\ORM.Common.Utility\EFCore.Generic.Repository\bin\Debug\netcoreapp3.1\EFCore.Generic.Repository.pdb
+C:\CodeA2ZwithSujeet\ORM_Common_Utility\ORM.Common.Utility\EFCore.Generic.Repository\obj\Debug\netcoreapp3.1\EFCore.Generic.Repository.csproj.AssemblyReference.cache
+C:\CodeA2ZwithSujeet\ORM_Common_Utility\ORM.Common.Utility\EFCore.Generic.Repository\obj\Debug\netcoreapp3.1\EFCore.Generic.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeA2ZwithSujeet\ORM_Common_Utility\ORM.Common.Utility\EFCore.Generic.Repository\obj\Debug\netcoreapp3.1\EFCore.Generic.Repository.AssemblyInfoInputs.cache
+C:\CodeA2ZwithSujeet\ORM_Common_Utility\ORM.Common.Utility\EFCore.Generic.Repository\obj\Debug\netcoreapp3.1\EFCore.Generic.Repository.AssemblyInfo.cs
+C:\CodeA2ZwithSujeet\ORM_Common_Utility\ORM.Common.Utility\EFCore.Generic.Repository\obj\Debug\netcoreapp3.1\EFCore.Generic.Repository.csproj.CoreCompileInputs.cache
+C:\CodeA2ZwithSujeet\ORM_Common_Utility\ORM.Common.Utility\EFCore.Generic.Repository\obj\Debug\netcoreapp3.1\EFCore.Generic.Repository.dll
+C:\CodeA2ZwithSujeet\ORM_Common_Utility\ORM.Common.Utility\EFCore.Generic.Repository\obj\Debug\netcoreapp3.1\EFCore.Generic.Repository.pdb
